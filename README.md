@@ -91,4 +91,5 @@ I have a beautiful book.
 The objective of this project is to demonstrate how generative AI can be integrated into a Python application using an API to perform text correction.
 
 ## 👩‍💻 Author
+Aishwarya Singh
 
